@@ -95,13 +95,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
     const messages = [
 
-        "PC → Wi-Fi → Pico → motors: the project is treated as one complete system.",
+        "PC → Wi-Fi → Pico → moteurs : le projet est traité comme un système complet.",
 
-        "The wireless link allows the operator to send movement commands to the rover.",
+        "La liaison sans fil permet à l'opérateur d'envoyer des commandes de mouvement au rover.",
 
-        "The Raspberry Pi Pico handles embedded logic, timing and motor commands.",
+        "Le Raspberry Pi Pico gère la logique embarquée, la temporisation et les commandes des moteurs.",
 
-        "The final test is physical: the code must produce the expected movement on the rover."
+        "Le test final est physique : le code doit produire le mouvement attendu sur le rover."
 
     ];
 
@@ -660,7 +660,7 @@ document.addEventListener("DOMContentLoaded", () => {
     ===================================================== */
 
     console.log(
-        "Skander Mokeddem — Engineering Portfolio loaded."
+        "Skander Mokeddem — Portfolio d'ingénierie chargé."
     );
 
 });

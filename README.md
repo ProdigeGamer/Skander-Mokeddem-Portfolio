@@ -1,44 +1,44 @@
-# Skander Mokeddem — Engineering Portfolio
+# Skander Mokeddem — Portfolio d'ingénierie
 
-Personal engineering portfolio for Skander Mokeddem.
+Portfolio d'ingénierie personnel de Skander Mokeddem.
 
-## Profile
+## Profil
 
-Third-year engineering student at IPSA.
+Étudiant en troisième année d'ingénierie à l'IPSA.
 
-Main interests:
+Centres d'intérêt principaux :
 
-- Embedded systems
-- Electronics
-- Robotics
-- Control systems
-- Automation
-- Aerospace
-- Space systems
-- Industrial systems
+- Systèmes embarqués
+- Électronique
+- Robotique
+- Systèmes de commande
+- Automatisation
+- Aéronautique
+- Systèmes spatiaux
+- Systèmes industriels
 
-## Opportunities
+## Opportunités
 
-Looking for:
+Recherche :
 
-- 3-month engineering internship — Summer 2027
-- Apprenticeship — September 2027
+- Stage d'ingénierie de 3 mois — été 2027
+- Alternance — septembre 2027
 
 ## Technologies
 
-The website uses:
+Le site utilise :
 
 - HTML5
 - CSS3
 - Vanilla JavaScript
 
-No framework is required.
+ aucun framework n'est nécessaire.
 
-No Node.js is required.
+Node.js n'est pas nécessaire.
 
-No npm installation is required.
+Aucune installation npm n'est nécessaire.
 
-## Project structure
+## Structure du projet
 
 portfolio-skander/
 
@@ -65,27 +65,27 @@ portfolio-skander/
     ├── cryptography.html
     └── programming.html
 
-## Running locally
+## Exécution en local
 
-Simply open:
+Ouvrir simplement :
 
 index.html
 
-in a web browser.
+dans un navigateur web.
 
-For a better development experience, VS Code + Live Server can be used.
+Pour une meilleure expérience de développement, VS Code et Live Server peuvent être utilisés.
 
-## Before publishing
+## Avant publication
 
-Add:
+Ajouter :
 
-1. Professional email
-2. CV PDF
-3. Rover photographs
-4. Project screenshots
-5. Additional project details
+1. Adresse e-mail professionnelle
+2. CV au format PDF
+3. Photos du rover
+4. Captures d'écran des projets
+5. Détails supplémentaires sur les projets
 
-## Links
+## Liens
 
 GitHub:
 
@@ -95,16 +95,16 @@ LinkedIn:
 
 https://www.linkedin.com/in/skander-mokeddem-42a8a41b8/
 
-## Future improvements
+## Améliorations futures
 
-Possible future upgrades:
+Améliorations possibles :
 
-- Astro migration
-- Multi-language FR/EN
-- Project filtering
-- Dark/light theme
-- More detailed project case studies
-- Downloadable CV
-- Custom domain
-- Analytics
-- SEO improvements
+- Migration vers Astro
+- Version multilingue FR/EN
+- Filtrage des projets
+- Thème sombre/clair
+- Études de cas plus détaillées
+- CV téléchargeable
+- Domaine personnalisé
+- Analytique
+- Améliorations SEO
